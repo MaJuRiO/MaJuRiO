@@ -1,4 +1,3 @@
 - 👋 Hi, My name is Tadpong Teawmapobsuk
-- 🪸 You can call me Mew!
 - 👀 I’m interested in python,java,etc
 - 🌱 I’m currently learning computer engineering at KMUTT
